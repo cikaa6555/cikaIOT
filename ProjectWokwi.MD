@@ -8,3 +8,4 @@ project 4.
 https://wokwi.com/projects/447577020573330433
 project 5
 https://wokwi.com/projects/447578474915060737
+project 6
